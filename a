@@ -1,0 +1,3 @@
+git add app.py qc_validation requirements.txt tests README.md
+git commit -m "Add QC validation app files"
+git push origin main
